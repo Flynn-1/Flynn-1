@@ -1,39 +1,75 @@
-# 👋 Hi, I’m Sam Flynn (Flynn-1)
+<!-- Final Profile README for Flynn-1 -->
 
-**building something big — blockchain · web · ui**
+<h1 align="center">👋 Hi, I’m Sam Flynn (Flynn-1)</h1>
+<p align="center"><strong>building something big — blockchain · web · ui</strong></p>
 
-I’m a creative dev who blends blockchain tech with design. Creator of CYLRC — open & evolving crypto project.  
-I build interfaces, smart contracts, and small useful tools.
-
-🔭 I’m currently working on: **CYLRC** and some React + Solidity experiments.  
-🌱 I’m learning: advanced smart contract patterns & front-end micro-interactions.  
-📫 Reach me: https://www.threads.com/@samflyn.n | https://instagram.com/samflyn.n
-
----
-
-## 🔧 Tech & Tools
-TypeScript • React • Next.js • Solidity • Hardhat • Tailwind • Figma
+<p align="center">
+  <a href="https://github.com/Flynn-1"><img alt="Followers" src="https://img.shields.io/github/followers/Flynn-1?label=Follow&style=social"></a>
+  <a href="https://github.com/Flynn-1?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Public%20Repos-5-blue"></a>
+  <a href="https://github.com/Flynn-1/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Flynn-1?style=social"></a>
+</p>
 
 ---
 
-## 🚀 Featured projects
-<!-- Use images/screenshots for visual appeal; pin these repos to show on profile -->
-- **CYLRC** — open crypto project (smart contracts + web app)  
-- **TXTON** — experimental Solidity utilities  
-- **NinjaSketch** — drawing app (React + canvas)
+## 👨‍💻 About Me
+I'm **Sam Flynn**, a creative developer blending **Blockchain**, **UI**, and **Web Tech** into polished, fast, modern experiences.
+
+I love:
+- writing **smart contracts**  
+- designing **clean UI**  
+- building **useful tools & micro-projects**  
+- creating future-driven digital products  
+
+📍 Based in India  
+📫 DM me on Instagram: **[@samflyn.n](https://instagram.com/samflyn.n)**  
+🧵 Threads: **[@samflyn.n](https://www.threads.com/@samflyn.n)**
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flynn-1&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=Flynn-1&show_icons=true&count_private=true)
+## 🔧 Tech Stack
+**Languages:** TypeScript • JavaScript • Solidity  
+**Frontend:** React • Next.js • TailwindCSS  
+**Blockchain:** Hardhat • Web3.js • Ethers.js  
+**Design:** Figma  
+**Tools:** Git • GitHub • VS Code  
 
 ---
 
-## 🌱 Fun
-- Passion: blockchain, design, and building small delightful UX.
-- Hobbies: animations, pixel art, and gym.
+## 🚀 Featured Projects  
+> Pin these repos on your GitHub profile so they appear visually.
+
+### 🔹 **CYLRC**
+Your flagship crypto project — smart contracts + future dashboard/website.
+
+### 🔹 **TXTON**
+Solidity utilities & blockchain experiments.
+
+### 🔹 **openzeppline**
+Experiments using OpenZeppelin ERC and AccessControl standards.
+
+### 🔹 **app**
+Front-end React/JS project — sandbox for UI and component testing.
+
+### 🔹 **Project**
+Prototype/testing repo (HTML/CSS/JS playground).
 
 ---
 
-Thanks for stopping by — I build stuff, ship often, and love feedback. 😄
+## 📊 GitHub Analytics  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Flynn-1&show_icons=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flynn-1&layout=compact" />
+</p>
+
+---
+
+## ✨ Fun Facts
+- I love UI animations, pixel art & clean minimalist design.  
+- Obsessed with **blockchain tech** & **smart contract architecture**.  
+- Always building… small apps, tools, experiments, or something new.  
+
+---
+
+## 🙌 Thanks for Visiting!
+If you like my work, connect with me or drop feedback anytime.  
+**I build, I learn, I ship.** 🚀
