@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/188508104?v=4" width="60%" />
+</p>
+
+
 <!-- Final Profile README for Flynn-1 -->
 
 <h1 align="center">👋 Hi, I’m Sam Flynn (Flynn-1)</h1>
