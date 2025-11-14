@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/188508104?v=4" width="50%" />
+<p align="center"> 
+<img width="1536" height="1024" alt="file_000000004400720999dc579a1f716ca3 (1)" src="https://github.com/user-attachments/assets/f7c7a988-c79d-41e9-b245-431e6d799d2f" />
+
 </p>
+
 
 
 <!-- Final Profile README for Flynn-1 -->
