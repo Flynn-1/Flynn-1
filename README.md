@@ -46,10 +46,6 @@
 </table>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Sam FLynn GitHub proof metrics" />
-</picture>
 </p>
 
 <h2>Selected work</h2>
@@ -57,10 +53,7 @@
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&repos=flynn-1%2FCYLRC%2Cflynn-1%2Fapp%2Cflynn-1%2Fopenzeppline%2Cflynn-1%2FProject&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&repos=flynn-1%2FCYLRC%2Cflynn-1%2Fapp%2Cflynn-1%2Fopenzeppline%2Cflynn-1%2FProject&v=recruiter-projects-1&mode=dark" width="100%" alt="Sam FLynn selected projects" />
-</picture>
+  
 </td>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/Flynn-1/CYLRC">CYLRC</a></h3>
@@ -82,10 +75,7 @@
 <h2>Technical toolkit</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Sam FLynn technology stack" />
-</picture>
+
 </p>
 
 <table width="100%">
@@ -101,10 +91,7 @@
 <h2>Consistency signal</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=flynn-1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188508104%3Fu%3D99f48a21828d1e7da57393dbaae6a651acc9fc95%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Sam FLynn contribution activity" />
-</picture>
+
 </p>
 
 <hr />
